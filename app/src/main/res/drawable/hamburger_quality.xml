@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer_list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/button"
+        android:drawable="@drawable/baseline_density_medium_24"
+        android:width="50dp"
+        android:height="50dp"
+        android:enabled="true"
+        android:title="button" />
+</layer_list>
